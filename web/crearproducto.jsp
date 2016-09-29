@@ -1,7 +1,7 @@
 <%-- 
     Document   : crearproducto
     Created on : 26-08-2016, 1:40:49
-    Author     : Javier
+    Author     : Javier Aguayo Aguilar
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
